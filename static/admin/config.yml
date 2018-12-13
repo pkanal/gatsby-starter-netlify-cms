@@ -36,6 +36,19 @@ collections:
               widget: "hidden",
               default: "home-page",
             }
+          - { label: Title, name: title, widget: "string" }
+          - { label: HeaderImage, name: header_image, widget: image }
+          - {
+              label: Sponsors,
+              name: sponsors,
+              widget: list,
+              fields:
+                [
+                  { label: Type, name: type, widget: string },
+                  { label: Url, name: url, widget: string },
+                  { label: Logo, name: logo, widget: image },
+                ],
+            }
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
