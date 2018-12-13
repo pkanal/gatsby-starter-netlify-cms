@@ -1,5 +1,5 @@
 ---
-templateKey: "home-page"
-path: /home
-title: Home
+templateKey: home-page
+title: A Framework for Change
 ---
+
