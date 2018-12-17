@@ -49,6 +49,16 @@ collections:
                   { label: Logo, name: logo, widget: image },
                 ],
             }
+          - {
+              label: Sections,
+              name: sections,
+              widget: list,
+              fields:
+                [
+                  { label: Title, name: title, widget: string },
+                  { label: Body, name: body, widget: markdown },
+                ],
+            }
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
