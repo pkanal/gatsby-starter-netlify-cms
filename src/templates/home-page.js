@@ -3,6 +3,7 @@ import Layout from "../components/Layout";
 import { graphql } from "gatsby";
 import { Section } from "../components/Section";
 import { Header } from "../components/Header";
+import { Sections } from "../components/Sections";
 
 export const HomePageTemplate = ({
   title,
@@ -17,9 +18,7 @@ export const HomePageTemplate = ({
         <a>{sponsor.url}</a>
       ))}
     </Section>
-    {sections.map(section => (
-      <Section title={section.title} body={section.body} />
-    ))}
+    <Sections sections={sections} />
   </>
 );
 
