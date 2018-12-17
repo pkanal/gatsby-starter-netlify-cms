@@ -9,6 +9,9 @@ sponsors:
   - logo: /img/glossier-logo.svg
     type: cohort
     url: 'https://www.glossier.com/'
+  - logo: /img/bridge-logo.png
+    type: cohort
+    url: 'https://pagerduty.com'
 sections:
   - body: >-
       Bridge is a federally-incorporated not-for-profit organization that brings
@@ -48,5 +51,13 @@ sections:
       our Sponsors-only student Meet and Greet in November, among other
       benefits. [Contact us today](mailto:hello@bridgeschool.io) to learn more.
     title: Key Benefits of Sponsoring Bridge
+  - body: >-
+      Almost 800 people have applied to Bridge since the beginning of 2017
+      alone. Students are carefully selected based on two key factors:
+      hireability and existing technical skill. Our application process
+      generates consistent results: hardworking, skilled people who are
+      passionate about professional growth and interested in new opportunities.
+      Find out more about the program [here](/apply-dev).
+    title: 'Our Programs: Bridge for Software Development'
 ---
 
