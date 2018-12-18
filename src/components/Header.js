@@ -2,18 +2,20 @@ import React from "react";
 import { Link } from "gatsby";
 
 import bridgeLogo from "../img/bridge-logo.svg";
+import { Section } from "./Section";
+import { Heading } from "./Heading";
 
 export const Header = ({ heading, backgroundImage }) => (
-  <header
-    class="tc-l ph3 flex flex-column items-center"
-    style={{ backgroundImage: `url(${backgroundImage})` }}
+  <Section
+    className="tc-l ph3 flex flex-column items-center"
+    img={backgroundImage}
   >
     <div class="pv3 display flex justify-center">
       <Link href="#" class="dib w-40">
         <img src={bridgeLogo} />
       </Link>
     </div>
-    <h2 class="f3 fw7 mt3 mb5 purple">{heading}</h2>
+    <Heading className="f3 fw7 mt3 mb5 purple">{heading}</Heading>
     <div class="flex flex-row-ns flex-column w-50 justify-around">
       <Link
         id="partner-cta-top"
@@ -23,5 +25,5 @@ export const Header = ({ heading, backgroundImage }) => (
         Become a Sponsor
       </Link>
     </div>
-  </header>
+  </Section>
 );
