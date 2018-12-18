@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: A Framework for Change
+title: A Framework for Change!
 header_image: /img/bridge-ladies.png
 sponsors:
   - logo: /img/rangle-logo.png
@@ -59,5 +59,7 @@ sections:
       passionate about professional growth and interested in new opportunities.
       Find out more about the program [here](/apply-dev).
     title: 'Our Programs: Bridge for Software Development'
+  - body: Hi Shaun!
+    title: Our Awesome New Section
 ---
 
