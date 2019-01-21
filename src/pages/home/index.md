@@ -59,7 +59,44 @@ sections:
       passionate about professional growth and interested in new opportunities.
       Find out more about the program [here](/apply-dev).
     title: 'Our Programs: Bridge for Software Development'
-  - body: Hi Shaun!
-    title: Our Awesome New Section
+  - body: >-
+      Almost 800 people have applied to Bridge since the beginning of 2017
+      alone. Students are carefully selected based on two key factors:
+      hireability and existing technical skill. Our application process
+      generates consistent results: hardworking, skilled people who are
+      passionate about professional growth and interested in new opportunities.
+      Find out more about the program [here](/apply-dev).
+
+
+      ## Our classes cover:
+
+
+      * Modern JavaScript (ES2016+)
+
+      * Functional programming
+
+      * React and Redux
+
+      * Git, Continuous Integration, and Continuous Delivery
+
+      * Writing valuable unit tests
+
+      * Interview skills
+
+      * Agile product development and teamwork
+    testimonials:
+      - author: Michael Bennett
+        image: /img/michael-bennett.jpeg
+        link: 'https://rangle.io'
+        quote: >-
+          Interviewing two to five people a week for the last two years has
+          exposed me to a lot of different candidates. Bridge candidates stand
+          out for their "rubber hits the road" attitude to development, along
+          with rich experiences they often bring from other industries. Bridge
+          graduates also tend to level up at a higher rate than our average
+          developers. Finally, and to me personally one of my favourite things
+          about Bridge graduates, is that their work ethic tends to be
+          exceptionally strong.
+    title: 'Our Programs: Bridge for Software Development'
 ---
 
