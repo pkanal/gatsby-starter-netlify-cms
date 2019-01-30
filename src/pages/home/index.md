@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
-title: A Framework for Change!
-header_image: /img/bridge-ladies.png
+title: A Framework for Change
+header_image: /img/kinder-bueno-dark-2016-0-1-.jpg
 sponsors:
   - logo: /img/rangle-logo.png
     type: lead
@@ -24,10 +24,7 @@ sections:
       skills and greatly increase their confidence.
 
 
-      Having tested and refined our approach, we’re currently building on the
-      success of Bridge by growing the program. We're now looking for
-      forward-thinking companies who care about fostering a diverse and
-      inclusive tech community to sponsor Bridge and make this possible.
+      Hi Emily!
     title: What is Bridge?
   - body: >-
       We know there are many excellent initiatives you can put your company's
