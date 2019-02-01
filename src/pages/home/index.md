@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: A Framework for Change
-header_image: /img/bridge-ladies.png
+header_image: /img/kinder-bueno-dark-2016-0-1-.jpg
 sponsors:
   - logo: /img/rangle-logo.png
     type: lead
