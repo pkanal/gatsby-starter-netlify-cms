@@ -9,7 +9,11 @@ export const ContentSections = ({
     color: "black",
     headingColor: "blue"
   },
-  secondaryTheme = { bgColor: "blue", color: "white", headingColor: "white" }
+  secondaryTheme = {
+    bgColor: "blue",
+    color: "white",
+    headingColor: "white"
+  }
 }) => (
   <>
     {sections.map((section, i) => {

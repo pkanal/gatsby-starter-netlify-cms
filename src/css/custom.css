@@ -7,24 +7,30 @@ body {
 .blue {
   color: #000c9e;
 }
+
 .bg-blue {
   background-color: #000c9e;
 }
-.b--blue {
+
+/* .b--blue {
   border-color: #000c9e;
 }
+
 .hover-blue:hover {
   color: #000c9e;
 }
+
 .hover-blue:focus {
   color: #000c9e;
 }
+
 .hover-bg-blue:hover {
   background-color: #000c9e;
 }
+
 .hover-bg-blue:focus {
   background-color: #000c9e;
-}
+} */
 
 /* Green */
 .green {
